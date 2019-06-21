@@ -5,7 +5,6 @@
 	<projects>
 		<project>steam.bll</project>
 		<project>steam.dal</project>
-		<project>steam.test</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

@@ -8,9 +8,6 @@
         <dependent-module archiveName="steam.dal.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/steam.dal/steam.dal">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="steam.test.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/steam.test/steam.test">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
         <property name="context-root" value="steam"/>
         <property name="java-output-path" value="/steam/build/classes"/>
     </wb-module>
